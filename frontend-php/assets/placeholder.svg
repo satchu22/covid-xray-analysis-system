@@ -1,0 +1,16 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="40" fill="#08101F"/>
+  <rect x="42" y="42" width="636" height="636" rx="32" stroke="#23324D" stroke-width="2"/>
+  <path d="M309 155C309 133.461 326.461 116 348 116H372C393.539 116 411 133.461 411 155V235H309V155Z" fill="#0EA5E9" fill-opacity="0.12" stroke="#38BDF8" stroke-width="3"/>
+  <path d="M247 266C247 246.67 262.67 231 282 231H438C457.33 231 473 246.67 473 266V508C473 579.797 414.797 638 343 638H377C305.203 638 247 579.797 247 508V266Z" fill="#0F172A" stroke="#4C6488" stroke-width="3"/>
+  <path d="M355 268C318.072 268 288 298.072 288 335V461C288 530.588 324.637 594 370 594C415.363 594 452 530.588 452 461V335C452 298.072 421.928 268 385 268H355Z" fill="#111C31"/>
+  <path d="M356 302C331.699 302 312 321.699 312 346V454C312 504.846 339.73 551 370 551C400.27 551 428 504.846 428 454V346C428 321.699 408.301 302 384 302H356Z" fill="#0B1326" stroke="#7DD3FC" stroke-opacity="0.65" stroke-width="2.5"/>
+  <path d="M360 303C336.252 303 317 322.252 317 346V454C317 491.998 333.622 527.86 357 545.277V303H360Z" fill="#0EA5E9" fill-opacity="0.14"/>
+  <path d="M421 402C433.703 412.257 442 428.353 442 446C442 476.928 416.928 502 386 502C355.072 502 330 476.928 330 446C330 415.072 355.072 390 386 390C399.392 390 411.685 394.702 421 402Z" fill="#22C55E" fill-opacity="0.1"/>
+  <circle cx="232" cy="179" r="12" fill="#38BDF8" fill-opacity="0.8"/>
+  <circle cx="495" cy="154" r="7" fill="#22C55E" fill-opacity="0.8"/>
+  <circle cx="534" cy="237" r="5" fill="#F59E0B" fill-opacity="0.9"/>
+  <text x="360" y="656" text-anchor="middle" fill="#8FA6C8" font-family="Arial, sans-serif" font-size="28" font-weight="700">
+    Upload Chest X-ray Preview
+  </text>
+</svg>

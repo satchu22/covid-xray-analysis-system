@@ -1,0 +1,52 @@
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+.vscode/
+.idea/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# ML / Models (VERY IMPORTANT)
+# ==============================
+ml-service/model.h5
+ml-service/*.h5
+ml-service/*.keras
+ml-service/saved_models/
+
+# ==============================
+# Dataset (DO NOT PUSH)
+# ==============================
+ml-service/dataset/
+
+# ==============================
+# Flask temp / instance
+# ==============================
+ml-service/instance/
+
+# ==============================
+# PHP uploads (keep folder only)
+# ==============================
+frontend-php/uploads/*
+!frontend-php/uploads/.gitkeep
+
+# ==============================
+# Mac / system junk
+# ==============================
+*.DS_Store
